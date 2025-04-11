@@ -1,5 +1,12 @@
 # yt-dlp UI 界面
 
+## 前置作業
+1. 下載 yt-dlp、ffmpeg
+2. 下載 yt-dlp.py（本專案）
+3. 啓動終端機，進入到 yt-dlp.py 所在資料夾
+4. 輸入 phython3 yt-dlp.py 啓動程式
+
+## 開始下載
 1. 啓動程式自動檢查 yt-dlp、ffmpeg 是否安裝成功。
 2. 輸入影片網址
 3. 選擇輸出爲 mp3 或 mp4 檔案
